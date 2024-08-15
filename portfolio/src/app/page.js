@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <section className={styles.container}>
       <Image
-        src="/Prathyush.jpeg"
+        src="/prathyush.JPG"
         alt="Prathyush"
         width={200}
         height={200}
